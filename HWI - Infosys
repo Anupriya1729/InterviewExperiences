@@ -1,0 +1,70 @@
+HackWithInfy is an India-wide coding competition for final year engineering students.
+Organized by Infosys. Applications open during the starting months. 
+
+Round 1 - Coding Contest on HackerEarth (Elimination round)
+Number of questions - 3 ( Level - leetcode Medium)
+
+Round 2 - Coding Contest on HackerEarth
+Number of questions - 3 ( Level - leetcode Medium-Hard)
+
+Round 3 for Top 100 performers of Round 2
+On-site Hackathon
+
+Job Profiles offered
+PP - Power Programmer 8lpa 
+SES - System Engineer Specialist 5lpa
+SE - System Engineer 3.5lpa
+
+Top 300 get an offer to interview for PP interview
+Top 3000 get an offer to interview for SES interview
+(Figures are not exact)
+
+Infosys follows the waterfall method for giving positions.
+In the worst case scenario, people are offered SE profile or nothing
+
+---------------------------------------------------------------------------
+
+Few Coding Questions that I remember. (Note - these are not the exact problem statements)
+
+Round 1
+1. Babushka Dolls
+	You are given a number 'n' and the next 'n' lines represent sizes of 'n' dolls. You have to tell how many Babushkas you can make.
+	A Babushka doll is a set of 3 dolls placed inside another. 
+	Example - 
+	7
+	1 2 3 4 5 6 7
+	O/P - 2
+	Explanation : 1 2 3 can be one set, 4 5 6 can be another
+	I'll share the solution later.
+
+2. Dynamic Programming related
+	It was basically the extended version of a problem on InterviewBit.
+
+Round 2
+1. Minimize the sum
+2. Very good modification of the standard coding question called LIS - Longest Increasing Subsequence (level - Hard), Programming Paradigm - Dynamic Programming
+
+---------------------------------------------------------------------------
+
+The interview was not much hectic as the interviewer saw some decent projects and internships in my resume. Was asked to code 2 easy problems one of them was Merge Sort. Then some discussion about my achievements.
+
+Note- The interviewer will read your entire resume so make sure you enter only valid details. 
+
+But this was not the case with the other batchmates who appeared for the interview. So, it varies from person to person.
+
+Topics to prepare:
+1. Everything that you have mentioned in your resume
+2. DBMS (most imp)
+3. OOP and Software Engineering que like - SDLC, AGILE, Waterfall etc.
+4. OS CN basics but if you have already mentioned in your resume then prepare in-depth
+5. Some basic System Design questions like how will you design an E-com website
+6. Prepare your intro, project explanation, questions to ask from the interviewer
+7. Just revise the basic coding that you did for clearing previous rounds.
+
+------------------------------------------------------------------------------
+
+Useful resources as recommended by really good coders who are placed. I've also tried these personally and it worked for me.
+1. Leetcode - during preparation
+2. Codeforces - solve at least A B C
+3. Interview Bit when interviews are near like 2 3 months before you can start because it has only selected questions.
+4. pramp.com for giving mock interviews 
