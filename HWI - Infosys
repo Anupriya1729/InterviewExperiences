@@ -32,7 +32,7 @@ Round 1
 	A Babushka doll is a set of 3 dolls placed inside another. 
 	Example - 
 	7
-	1 2 3 4 5 6 7
+	1 2 5 4 3 6 7
 	O/P - 2
 	Explanation : 1 2 3 can be one set, 4 5 6 can be another
 	I'll share the solution later.
