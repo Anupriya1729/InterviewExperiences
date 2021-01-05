@@ -6,7 +6,7 @@ Codedivas Hiring Challenge on HackerEarth<br>
 <pre>
 <h2>ROUND 1 (Codepair on HackerRank) 1 hour </h2>
 1. Was asked to solve this problem:
-https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/
+<a href="https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/">https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/</a>
 2. Tell me about your fav algorithms.
    Explain one of them and write the code.
 3. What is a BST, what are other types of trees.
@@ -16,9 +16,9 @@ https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/
 <pre>
 <h2>ROUND 2 (Codepair on Hackerrank) 1 hour</h2>
 1. starting point of a loop in a linked list
-   https://leetcode.com/problems/linked-list-cycle-ii
+   <a href="https://leetcode.com/problems/linked-list-cycle-ii">https://leetcode.com/problems/linked-list-cycle-ii</a>
 2. count palindromic substrings
-   https://leetcode.com/problems/palindromic-substrings
+   <a href="https://leetcode.com/problems/palindromic-substrings">https://leetcode.com/problems/palindromic-substrings</a>
 3. sql query --> Employee and department table is given you need to find salary of all employees in each department
 4. What is a lambda?
 5. What is virtual function ?
