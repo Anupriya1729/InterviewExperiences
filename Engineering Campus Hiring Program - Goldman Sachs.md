@@ -58,13 +58,6 @@ Gave 2 approaches, Edge cases, Explanation
 Started from Brute force then optimized it.
 After this round, many people were eliminated.
 
-Round 2 - 
-Intro 
-Red Blue Green balls puzzle
-The pattern was kind of the same as round 1 but I was not able to clear this round as 
-I got nervous and due to that missed many edge cases while coding.
-She pointed out the bugs in my code, I corrected it after that but kind of messed up in my explanation part and edge cases.
-Although I gave an optimized solution, I think I was not able to perform well in this round as she had to point out certain things in my code.
 
 Suggestions- 
 Cross question the interviewer before you start coding
