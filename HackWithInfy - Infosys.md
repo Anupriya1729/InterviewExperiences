@@ -58,6 +58,8 @@ Note- The interviewer will read your entire resume so make sure you enter only v
 
 But this was not the case with the other batchmates who appeared for the interview. So, it varies from person to person.
 
+Got offer for SES profile.
+
 Topics to prepare:
 1. Everything that you have mentioned in your resume
 2. DBMS (most imp)
