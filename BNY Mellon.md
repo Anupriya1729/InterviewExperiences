@@ -53,14 +53,15 @@ There were 4 coding questions. The time duration was 3 hours.<br>Contestants who
 
 I applied only for Full-time SDE role. 
 Got positive response.
-
+<pre>
 Stuff to prepare:
 1. DSA (most imp) as they are interested in testing your problem-solving skills.
 2. Practice communicating while you code.
 3. About your projects & internships, Questions to ask from the interviewer.
 4. CSE core subjects: OOP, DBMS, CN
 5. Know your RESUME.
-
+</pre>
+<pre>
 Useful Resources-
 1. https://leetcode.com/
 2. https://www.interviewbit.com/courses/programming/
@@ -69,4 +70,5 @@ Useful Resources-
 5. https://www.pramp.com/dashboard for mock interviews
 6. TECH DOSE:
    https://www.youtube.com/channel/UCnxhETjJtTPs37hOZ7vQ88g
+</pre>
 
