@@ -29,7 +29,7 @@ inorder and pre-order traversal.
 9. TCP vs UDP
 10. Find how you can generate a given sequence of numbers from the BST shown on the whiteboard.
 11. Which databases have you used? Difference between SQL and NoSQL.
-12.  What servers have you used?
+12. What servers have you used?
 13. What is the CAP theorem?
 14. Any questions for me?
 </pre>
