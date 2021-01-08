@@ -1,15 +1,17 @@
 <h1>BNY Mellon - Off Campus</h1> 
-I got the interview opportunity through the "Code Divas Diversity Challenge 2020" organized by BNY Mellon on HackerEarth.
+I got the interview opportunity through the "Code Divas Diversity Challenge 2020" organized by BNY Mellon on HackerEarth.<br>
 There were 4 coding questions. The time duration was 3 hours.<br>Two of them were based on Dynamic Programming, one of them was of the digit DP, and the other was similar to the jump game question.<br>Contestants who scored more than 55% marks got interview opportunity.<br>2021 batch : Full-time SDE role + 6 months intern (only if college permits 6 months intern)<br>2022 batch : 2 months intern
 <pre>
 <h2>ROUND 1 (Codepair on HackerRank) 1 hour </h2>
 <pre>
-1. Coding question: <a href="https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/">https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/</a>
+1. Coding question: 
+<a href="https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/">https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/</a>
 2. Tell me about your favorite algorithms, explain one of them, and write the code for the same.
 3. What is a BST, what are other types of trees.
 4. Theoretical questions based on the Graph data structure. 
 What are the most important things in Graph theory?
-Where graph traversals algorithms are used? Tell about different traversal algorithms and write the order of printing of nodes in the inorder and pre-order traversal.
+Where graph traversals algorithms are used? Tell about different traversal algorithms and write the order of printing of nodes in the 
+inorder and pre-order traversal.
 5. Some general questions.
 6. Any questions for me?
 </pre>
