@@ -2,7 +2,7 @@
 I got the interview opportunity through the "Code Divas Diversity Challenge 2020" organized by BNY Mellon on HackerEarth.<br>
 There were 4 coding questions. The time duration was 3 hours.<br>Contestants who scored more than 55% marks got interview opportunity.<br>2021 batch : Full-time SDE role + 6 months intern (only if college permits 6 months intern)<br>2022 batch : 2 months intern
 <pre>
-<h2>ROUND 1 (Codepair on HackerRank) 1 hour </h2>
+<h2>ROUND 1 (Codepair on HackerRank) <br>Duration: 1 hour </h2>
 <pre>
 1. Coding question: 
    <a href="https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/">https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/</a>
@@ -16,7 +16,7 @@ There were 4 coding questions. The time duration was 3 hours.<br>Contestants who
 6. Any questions for me ?
 </pre>
 <pre>
-<h2>ROUND 2 (Codepair on Hackerrank) 1 hour</h2>
+<h2>ROUND 2 (Codepair on Hackerrank)<br>Duration: 1 hour</h2>
 1. Coding question: 
    <a href="https://leetcode.com/problems/linked-list-cycle-ii">https://leetcode.com/problems/linked-list-cycle-ii</a>
 2. Coding question:
@@ -35,7 +35,7 @@ There were 4 coding questions. The time duration was 3 hours.<br>Contestants who
 14. Any questions for me ?
 </pre>
 <pre>
-<h2>ROUND 3 (Technical + Managerial) Cisco WebEx 30 mins</h2>
+<h2>ROUND 3 (Technical + Managerial) Cisco WebEx<br>Duration: 30 mins</h2>
 1. Tell me about the previous rounds.
 2. Favourite programming language?
 3. Do you know about maps? Tell me something about it.
@@ -51,3 +51,24 @@ There were 4 coding questions. The time duration was 3 hours.<br>Contestants who
 12. What do you know about BNY Mellon and why you want to join it?
 13. Any questions for me ?  
 </pre>
+
+I applied only for Full-time SDE role. 
+Got positive response.
+
+Things to prepare-
+
+DSA (most imp) as they are interested in testing your problem-solving skills.
+Practice communicating while you code.
+About your projects, Intro, Questions to ask from the interviewer
+CSE core subjects: OOP, DBMS, CN
+Know your RESUME.
+
+Useful Resources-
+1. https://leetcode.com/
+2. https://www.interviewbit.com/courses/programming/
+3. SDE SHEET: https://bit.ly/takeUforward_SDE
+4. https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
+5. https://www.pramp.com/dashboard for mock interviews
+6. TECH DOSE:
+   https://www.youtube.com/channel/UCnxhETjJtTPs37hOZ7vQ88g
+
