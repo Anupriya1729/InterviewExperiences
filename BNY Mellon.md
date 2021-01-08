@@ -63,12 +63,10 @@ Stuff to prepare:
 </pre>
 <pre>
 Useful Resources-
-1. https://leetcode.com/
-2. https://www.interviewbit.com/courses/programming/
-3. SDE SHEET: https://bit.ly/takeUforward_SDE
-4. https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
-5. https://www.pramp.com/dashboard for mock interviews
-6. TECH DOSE:
-   https://www.youtube.com/channel/UCnxhETjJtTPs37hOZ7vQ88g
+1. <a href="https://leetcode.com/">Leetcode</a>
+2. <a href="https://www.interviewbit.com/courses/programming/">Interview Bit</a>
+3. <a href="https://bit.ly/takeUforward_SDE">SDE SHEET</a>
+4. <a href="https://www.pramp.com/dashboard">Pramp</a> for mock interviews
+5. <a href="https://www.youtube.com/channel/UCnxhETjJtTPs37hOZ7vQ88g">TECH DOSE</a>
 </pre>
 
