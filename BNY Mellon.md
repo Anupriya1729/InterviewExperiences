@@ -40,8 +40,9 @@ inorder and pre-order traversal.
 3. Do you know about maps? Tell me something about it.
 4. How hashing is done?
 5. What is the Hash function? What will happen if a hash function returns 1 always?
-6. Difference between map and unordered mapThe interviewer discussed a lot about maps.
-7. Discussed automation project which was mentioned in my resume.  
+6. Difference between map and unordered map?
+   The interviewer discussed a lot about map data structure.
+7. Discussed the automation project which was mentioned in my resume.  
 8. What are the challenges that you've faced till now?
 9. What technology you've worked on? Why you choose Django? What is ORM?
 10. Which databases have you used? Where have you used it?
