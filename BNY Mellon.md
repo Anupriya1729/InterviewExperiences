@@ -5,7 +5,7 @@ There were 4 coding questions. The time duration was 3 hours.<br>Two of them wer
 <h2>ROUND 1 (Codepair on HackerRank) 1 hour </h2>
 <pre>
 1. Coding question: 
-<a href="https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/">https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/</a>
+   <a href="https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/">https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/</a>
 2. Tell me about your favorite algorithms, explain one of them, and write the code for the same.
 3. What is a BST, what are other types of trees.
 4. Theoretical questions based on the Graph data structure. 
