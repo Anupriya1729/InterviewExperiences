@@ -9,11 +9,11 @@ There were 4 coding questions. The time duration was 3 hours.<br>Contestants who
 2. Tell me about your favorite algorithms, explain one of them, and write the code for the same.
 3. What is a BST, what are other types of trees.
 4. Theoretical questions based on the Graph data structure. 
-What are the most important things in Graph theory?
-Where graph traversals algorithms are used? Tell about different traversal algorithms and write the order of printing of nodes in the 
-inorder and pre-order traversal.
+   What are the most important things in Graph theory?
+   Where graph traversals algorithms are used? Tell about different traversal algorithms and write the order of printing of nodes in the 
+   inorder and pre-order traversal.
 5. Some general questions.
-6. Any questions for me?
+6. Any questions for me ?
 </pre>
 <pre>
 <h2>ROUND 2 (Codepair on Hackerrank) 1 hour</h2>
@@ -22,7 +22,8 @@ inorder and pre-order traversal.
 2. Coding question:
    <a href="https://leetcode.com/problems/palindromic-substrings">https://leetcode.com/problems/palindromic-substrings</a>
 3. SQL query --> Employee and department table is given you need to find the salary of employees in each department
-4. What is a Lambda?5. What is a virtual function?
+4. What is a Lambda?
+5. What is a virtual function?
 6. What is docker? What is cloud computing? (I didn't mention these in my resume)
 7. Do you know Java? I said I know the basics, so - What is the entry point of a code in Java? Tell the syntax? Why main is static?
 8. Tell about Switch & Hub. Which data structure is used in switches?
@@ -31,7 +32,7 @@ inorder and pre-order traversal.
 11. Which databases have you used? Difference between SQL and NoSQL.
 12. What servers have you used?
 13. What is the CAP theorem?
-14. Any questions for me?
+14. Any questions for me ?
 </pre>
 <pre>
 <h2>ROUND 3 (Technical + Managerial) Cisco WebEx 30 mins</h2>
@@ -48,5 +49,5 @@ inorder and pre-order traversal.
 10. Which databases have you used? Where have you used it?
 11. Do you have any leadership experience?
 12. What do you know about BNY Mellon and why you want to join it?
-13. Any questions for me?  
+13. Any questions for me ?  
 </pre>
