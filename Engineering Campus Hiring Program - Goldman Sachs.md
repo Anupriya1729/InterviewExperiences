@@ -56,6 +56,9 @@ Tell me about Trees
 Problem given - LCA (Lowest Common Ancestor)
 Gave 2 approaches, Edge cases, Explanation
 Started from Brute force then optimized it.
+I forgot to tell about my assumption that I was assuming the keys to be present in the tree.
+I was knowing the concept but missed out conveying it to the interviewer.
+Later she pointed this out.
 After this round, many people were eliminated.
 
 
