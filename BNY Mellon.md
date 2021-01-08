@@ -54,7 +54,7 @@ There were 4 coding questions. The time duration was 3 hours.<br>Contestants who
 
 I applied only for Full-time SDE role. 
 Got positive response.
-<pre>
+<div>
 Stuff to prepare:
 1. DSA (most imp) as they are interested in testing your problem-solving skills.
 2. Practice communicating while you code.
@@ -71,4 +71,4 @@ Useful Resources-
 6. TECH DOSE:
    https://www.youtube.com/channel/UCnxhETjJtTPs37hOZ7vQ88g
 
-</pre>
+</div>
