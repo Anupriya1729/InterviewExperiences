@@ -3,7 +3,6 @@ I got the interview opportunity through the "Code Divas Diversity Challenge 2020
 There were 4 coding questions. The time duration was 3 hours.<br>Contestants who scored more than 55% marks got interview opportunity.<br>2021 batch : Full-time SDE role + 6 months intern (only if college permits 6 months intern)<br>2022 batch : 2 months intern
 <pre>
 <h2>ROUND 1 (Codepair on HackerRank) <br>Duration: 1 hour </h2>
-<pre>
 1. Coding question: 
    <a href="https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/">https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/</a>
 2. Tell me about your favorite algorithms, explain one of them, and write the code for the same.
@@ -54,7 +53,7 @@ There were 4 coding questions. The time duration was 3 hours.<br>Contestants who
 
 I applied only for Full-time SDE role. 
 Got positive response.
-<div>
+
 Stuff to prepare:
 1. DSA (most imp) as they are interested in testing your problem-solving skills.
 2. Practice communicating while you code.
@@ -71,4 +70,3 @@ Useful Resources-
 6. TECH DOSE:
    https://www.youtube.com/channel/UCnxhETjJtTPs37hOZ7vQ88g
 
-</div>
