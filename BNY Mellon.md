@@ -1,6 +1,6 @@
 <h1>BNY Mellon - Off Campus</h1> 
 I got the interview opportunity through the "Code Divas Diversity Challenge 2020" organized by BNY Mellon on HackerEarth.<br>
-There were 4 coding questions. The time duration was 3 hours.<br>Two of them were based on Dynamic Programming, one of them was of the digit DP, and the other was similar to the jump game question.<br>Contestants who scored more than 55% marks got interview opportunity.<br>2021 batch : Full-time SDE role + 6 months intern (only if college permits 6 months intern)<br>2022 batch : 2 months intern
+There were 4 coding questions. The time duration was 3 hours.<br>Contestants who scored more than 55% marks got interview opportunity.<br>2021 batch : Full-time SDE role + 6 months intern (only if college permits 6 months intern)<br>2022 batch : 2 months intern
 <pre>
 <h2>ROUND 1 (Codepair on HackerRank) 1 hour </h2>
 <pre>
