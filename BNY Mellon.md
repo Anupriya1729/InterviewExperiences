@@ -1,49 +1,49 @@
-<h1>BNY Mellon - Off Campus (only for Females)</h1> 
-Codedivas Hiring Challenge on HackerEarth<br>
-4 coding questions to be done in 3 hours<br>
-2 questions were based on Dynamic Programming, one of them was of digit dp and other was similar to jump game<br>
-2 were miscellaneous
+<h1>BNY Mellon - Off Campus</h1> 
+I got the interview opportunity through the "Code Divas Diversity Challenge 2020" organized by BNY Mellon on HackerEarth.
+There were 4 coding questions. The time duration was 3 hours.<br>Two of them were based on Dynamic Programming, one of them was of the digit DP, and the other was similar to the jump game question.<br>Contestants who scored more than 55% marks got interview opportunity.<br>2021 batch : Full-time SDE role + 6 months intern (only if college permits 6 months intern)<br>2022 batch : 2 months intern
 <pre>
 <h2>ROUND 1 (Codepair on HackerRank) 1 hour </h2>
-1. Was asked to solve this problem:
-<a href="https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/">https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/</a>
-2. Tell me about your fav algorithms.
-   Explain one of them and write the code.
+<pre>
+1. Coding question: <a href="https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/">https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/</a>
+2. Tell me about your favorite algorithms, explain one of them, and write the code for the same.
 3. What is a BST, what are other types of trees.
-4. Graph related theory, why traversals are used tell about different traversal algorithms.
-5. Which sites you use to practice.
+4. Theoretical questions based on the Graph data structure. 
+What are the most important things in Graph theory?
+Where graph traversals algorithms are used? Tell about different traversal algorithms and write the order of printing of nodes in the inorder and pre-order traversal.
+5. Some general questions.
+6. Any questions for me?
 </pre>
 <pre>
 <h2>ROUND 2 (Codepair on Hackerrank) 1 hour</h2>
-1. starting point of a loop in a linked list
+1. Coding question: 
    <a href="https://leetcode.com/problems/linked-list-cycle-ii">https://leetcode.com/problems/linked-list-cycle-ii</a>
-2. count palindromic substrings
+2. Coding question:
    <a href="https://leetcode.com/problems/palindromic-substrings">https://leetcode.com/problems/palindromic-substrings</a>
-3. sql query --> Employee and department table is given you need to find salary of all employees in each department
-4. What is a lambda?
-5. What is virtual function ?
+3. SQL query --> Employee and department table is given you need to find the salary of employees in each department
+4. What is a Lambda?5. What is a virtual function?
 6. What is docker? What is cloud computing? (I didn't mention these in my resume)
-7. Do you know Java? I said I know the basics, so - What is entry point of a code in Java? Tell the syntax? Why main is static?
-8. switch & hub, which data structure is used in switches?
-9. tcp vs udp
-10. bst based question on white board
-11. databases sql vs nosql
+7. Do you know Java? I said I know the basics, so - What is the entry point of a code in Java? Tell the syntax? Why main is static?
+8. Tell about Switch & Hub. Which data structure is used in switches?
+9. TCP vs UDP
+10. Find how you can generate a given sequence of numbers from the BST shown on the whiteboard.
+11. Which databases have you used? Difference between SQL and NoSQL.
 12.  What servers have you used?
-13. What is CAP theorem?
+13. What is the CAP theorem?
 14. Any questions for me?
 </pre>
 <pre>
 <h2>ROUND 3 (Technical + Managerial) Cisco WebEx 30 mins</h2>
-1. How was your previous rounds
-2. Fav lang , I said C++
-3. What is a map ?
-4. Hash function 
-What will happen if a hash function returns 1 always 
-5. Difference between map and unordered map
-Interviewer Discussed alot about maps.
-6. Sending mail project 
-7. Challenges faced till now.
-8. What technology you used ?
-9. College society Leadership
-10. Any questions for me? 
+1. Tell me about the previous rounds.
+2. Favourite programming language?
+3. Do you know about maps? Tell me something about it.
+4. How hashing is done?
+5. What is the Hash function? What will happen if a hash function returns 1 always?
+6. Difference between map and unordered mapThe interviewer discussed a lot about maps.
+7. Discussed automation project which was mentioned in my resume.  
+8. What are the challenges that you've faced till now?
+9. What technology you've worked on? Why you choose Django? What is ORM?
+10.Which databases have you used? Where have you used it?
+11. Do you have any leadership experience?
+12. What do you know about BNY Mellon and why you want to join it?
+13. Any questions for me?  
 </pre>
