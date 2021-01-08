@@ -44,7 +44,7 @@ inorder and pre-order traversal.
 7. Discussed automation project which was mentioned in my resume.  
 8. What are the challenges that you've faced till now?
 9. What technology you've worked on? Why you choose Django? What is ORM?
-10.Which databases have you used? Where have you used it?
+10. Which databases have you used? Where have you used it?
 11. Do you have any leadership experience?
 12. What do you know about BNY Mellon and why you want to join it?
 13. Any questions for me?  
