@@ -1,6 +1,15 @@
 <h1>BNY Mellon Off-Campus Interview Experience</h1> 
 I got the interview opportunity through the <b>"Code Divas Diversity Challenge 2020"</b> organized by BNY Mellon on HackerEarth.<br>
-There were 4 coding questions. The time duration was 3 hours.<br>Contestants who scored more than 55% marks got interview opportunity.<br>2021 batch : Full-time SDE role + 6 months intern (only if college permits 6 months intern)<br>2022 batch : summer internship
+There were 4 coding questions. The time duration was 3 hours.<br>Contestants who scored more than 55% marks got interview opportunity.
+<pre>
+Eligibility Criteria:
+Female candidates
+BE/BTech/ M.E/M.Tech/ MCA/ M.Sc. & MS Maths and Computing
+CGPA 7 and above
+No current/active backlogs
+2021 graduates for full time and 6-month internship (Jan to Jun 2021) opportunities
+2022 graduates for summer internship (May to July 2021)
+</pre>
 <pre>
 <h2>ROUND 1 (Codepair on HackerRank) <br>Duration: 1 hour </h2>
 1. Coding question: 
