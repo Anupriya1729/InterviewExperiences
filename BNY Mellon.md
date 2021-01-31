@@ -77,5 +77,6 @@ Useful Resources-
 3. <a href="https://bit.ly/takeUforward_SDE">SDE SHEET</a>
 4. <a href="https://www.pramp.com/dashboard">Pramp</a> for mock interviews
 5. <a href="https://www.youtube.com/channel/UCnxhETjJtTPs37hOZ7vQ88g">TECH DOSE</a>
+6. <a href="https://www.geeksforgeeks.org/">GFG</a>
 </pre>
 
