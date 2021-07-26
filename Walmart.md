@@ -1,0 +1,44 @@
+<pre>
+MCQ Challenge: 30 questions, 25 mins
+Coding Challenge: 2 questions, 90 mins
+</pre>
+<h2>INTERVIEWS:</h2>
+<pre>
+I solved both the question in the coding round, therefore I was interviewed on Day 1.
+
+<b>Round 1:</b>
+1. Tell me about yourself.
+2. Discuss the solutions to shift all zeros to left in n array of 0's and 1's.
+3. OOP concepts, write an example of run time and compile time polymorphism.
+4. Puzzle: 25 horses, only 5 can race at a time. Find top 3 horses.
+5. Write a class for node in a tree, each node holds a name, an id.
+6. Name the layers in OSI model. 
+7. Discussion about my internship. Difference between Maven and Gradle.
+8. Where the application layer exists in the situation explained by the interviewer.
+9. Write an SQL query. The question was based on retail services.
+10. Difference between HTTP and HTTPS. How will you convert HTTP to HTTPS?
+11. How will you design a tic tac toe game? 
+
+
+<b>Round 2:</b>
+1. Tell me about yourself.
+2. Write a code to find middle element of a linked list.
+3. Write a code to delete a node when head pointer is not given.
+4. Write a code to mirror a tree.
+5. Write a code to print topview of a binary tree.
+6. OOPs concepts, What is polymorphism?
+7. Is polymorphism possible without inheritance?
+8. What is exception handling? Give examples of exceptions.
+9. Write code to handle an exception.
+10. Write a SQL query to find max and 2nd max salary. How can you find nth highest salary.
+
+<b>Round 3:</b>
+1. Tell me about yourself.
+2. Difference between process and thread.
+3. Briefly tell me about your internships and projects.
+4. Explain the architecture of one of your project.
+5. Puzzle: Tell the minimum number of cuts required to make 8 equal pieces from a rod.
+6. What is your preffered location?
+7. Some HR questions.
+
+ </pre>
