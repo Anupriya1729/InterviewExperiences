@@ -41,12 +41,13 @@ Result: Selected
 <h2>Round 3:</h2>
 <pre>
 1. Tell me about yourself.
-2. Difference between process and thread.
-3. Briefly tell me about your internships and projects.
-4. Explain the architecture of one of your project.
-5. Puzzle: Tell the minimum number of cuts required to make 8 equal pieces from a rod.
-6. What is your preffered location?
-7. Some HR questions.
+2. Tell me about the programming languages you know and the differences between them.
+3. Difference between process and thread.
+4. Briefly tell me about your internships and projects.
+5. Explain the architecture of one of your project.
+6. Puzzle: Tell the minimum number of cuts required to make 8 equal pieces from a rod.
+7. What is your preffered location?
+8. Some HR questions.
  </pre>
  <h2>Stuff to prepare for Interviews:</h2>
  <pre>
