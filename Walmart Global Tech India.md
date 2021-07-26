@@ -1,12 +1,14 @@
 <pre>
 MCQ Challenge: 30 questions, 25 mins
-Coding Challenge: 2 questions, 90 mins
+Coding Challenge: 2 questions, 90 mins (Difficulty: Medium)
 
 281 out of the 29,342 participants were shortlisted for interviews.
 
 INTERVIEWS:
-Participants were called for interviews on the basis of thier rank in the previous rounds.
+Participants were called for interviews on the basis of their rank in the previous rounds.
 2 Technical, 1 hiring manager round
+
+Result: Selected
 </pre>
 <h2>Round 1:</h2>
 <pre>
@@ -18,6 +20,7 @@ Participants were called for interviews on the basis of thier rank in the previo
 6. Name the layers in OSI model. 
 7. Discussion about my internship. Difference between Maven and Gradle.
 8. Where the application layer exists in the situation explained by the interviewer.
+9. What is primary key, foreign key?
 9. Write an SQL query. The question was based on retail services.
 10. Difference between HTTP and HTTPS. How will you convert HTTP to HTTPS?
 11. How will you design a tic tac toe game? 
@@ -44,4 +47,15 @@ Participants were called for interviews on the basis of thier rank in the previo
 5. Puzzle: Tell the minimum number of cuts required to make 8 equal pieces from a rod.
 6. What is your preffered location?
 7. Some HR questions.
+ </pre>
+ <h2>Stuff to prepare for Interviews:</h2>
+ <pre>
+ 1. Mostly asked coding questions
+ 2. DBMS, SQL queries
+ 3. Computer Networks
+ 4. OOP 
+ 5. Puzzles
+ 6. Projects (with workflow of each)
+ 7. HR questions
+ 8. About Walmart Global Tech
  </pre>
